@@ -1,2 +1,2 @@
 # MorseCodeTranslate
-Morse code translator GUI
+Morse code translator GUI and use of REGEX
